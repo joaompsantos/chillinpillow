@@ -9,7 +9,6 @@ The **pillow** you wanted since the dawn of time!
 ### Features
 - Bluetooth Conectivity;
 - Mobile App;
-- Scheulde several alarms;
 - Set vibration settings;
 - Small eletronics package for maximum comfort;
 - One week battery*;

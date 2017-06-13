@@ -1,0 +1,8 @@
+comfortlabs.sublime*
+*.lbr
+*.pdf
+*.pioenvs
+*.piolibdeps
+*.clang_complete
+*.gcc-flags.json
+libs/
